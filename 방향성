@@ -1,0 +1,5 @@
+1. 인프라 구성 server: AWS, GPU: https://www.iwinv.kr/llm-gpu(아직 미정)
+2. LLM 기반 환자-의사 상담 자동 요약·SOAP·생성
+LLM : https://goddaehee.tistory.com/381 (Ollama) 사용 및 학습 담당
+SOAP: 구조 및 추론할 수 있는 방법 및 코드작성 담당
+의학지식 도메인 자료 수집 담당
