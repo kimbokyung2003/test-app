@@ -1,0 +1,2 @@
+https://clickup.com/ko/blog/492151/soap-note-generators  / SOAP 요약 정리 사이트
+https://soap.mediconsol.net/  / 아이디어 롤 모델 사이트
