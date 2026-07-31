@@ -1,0 +1,14 @@
+AWS - PostgreSQL
+AWS Transcribe Medical
+Amazon Aurora MySQL-Compatible
+
+
+
+
+
+
+서비스 카테고리주요 역할예상 비용 (월)AWS Transcribe Medical
+의료 특화 음성 인식 (STT)$2,250.00
+Amazon BedrockLLM 요약 (Claude 3.5 Sonnet 기준)$45.00
+네트워크 및 보안VPC Endpoints, AWS WAF, KMS~$40.00
+컴퓨팅 및 스토리지API Gateway, Lambda, S3, DynamoDB~$5.00
